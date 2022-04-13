@@ -1,2 +1,2 @@
 # cl_native
-作业
+go_native_0作业
